@@ -1,5 +1,5 @@
 # Iterative Puzzle Solver
-Project page for Introduction to Computational and Biological Vision class taken at BGU. 
+Project page for *Introduction to Computational and Biological Vision* class taken at BGU. 
 
 ## Introduction
 In the square jigsaw puzzle problem one is required to reconstruct the complete image from a set of non-overlapping, unordered, square puzzle parts.  
