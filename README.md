@@ -9,6 +9,9 @@ archaeologists and restoration personnel.
 In our problem we assume no clues regarding parts’ location and no prior knowledge about the original image. The pieces of the 2d puzzle are square patches which combined together contain the full image and there is no overlap between pieces.  
 The goal of this work is to solve iteraively jigsaw puzzles by recovering images from shuffled versions of it.  
 
+![](example.png?raw=true "Solver Example")
+
+
 ## Approach and Method 
 I propose a new unsupervised deep learning model based on previous work of puzzle solving, using learning of the inverse permutation matrix in reliance of time phase.     
 Each timestep *t* corresponds to a certain step in the solving procedure.  
